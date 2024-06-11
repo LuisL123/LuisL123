@@ -11,7 +11,7 @@
     
 💼 I’m currently working as a **Venture Studio Intern** at **Fusen**.
 
-🔭 I'm currently learning **Arduino, React - TypeScript, and Surfing🏄‍♂️**.
+🔭 I'm currently learning **Neural Networks, Audio Processing on Python, React - TypeScript, and Surfing🏄‍♂️**.
 
 🎾 I enjoy playing Tennis, Padel, and Animal Planet Documentaries.
     
