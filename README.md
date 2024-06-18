@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,vscode,github,git,docker,androidstudio,arduino" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,c,java,swift" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,c,java,swift,pytorch,fastapi,nodejs" /><br>
 </div>
 
 <br/>
