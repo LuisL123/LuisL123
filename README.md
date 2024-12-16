@@ -9,7 +9,7 @@
 
 <div align="center">
     
-💼 I’m currently working as a **Venture Studio Intern** at **Fusen**.
+💼 I’m currently working as a **Founder and Software Developer** at **Synfi**.
 
 🔭 I'm currently learning **Neural Networks, Audio Processing on Python, React - TypeScript, and Surfing🏄‍♂️**.
 
